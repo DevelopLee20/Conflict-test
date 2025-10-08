@@ -1,1 +1,7 @@
 print("Hello, A!")
+print("A에서 별찍기 리버스")
+print("*****")
+print("****")
+print("***")
+print("**")
+print("*")
