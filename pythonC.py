@@ -1,2 +1,2 @@
 print("Hello, C!")
-print("Coding is Happy!")
+print("Plus C Code")
